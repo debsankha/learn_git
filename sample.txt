@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Where the mind is without fear
+=======
+This is the firts line
+fndsn;
+dc
+This is the second line
+This is the third line
+cuwvciodsn
+>>>>>>> 69eb1a32b7bc08f1d2898d6e669925fb7849ecaf
